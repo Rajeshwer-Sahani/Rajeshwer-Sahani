@@ -1,7 +1,7 @@
-# Hi 👋, I'm Rajeshwer
-
-💻 Flutter Developer | Firebase Enthusiast
-🚀 Building real-world applications
+<p align="center">
+  <h1>Hi 👋, I'm Rajeshwer</h1>
+  <p>Flutter Developer | Firebase | Building real-world applications</p>
+</p>
 
 ---
 
@@ -17,7 +17,7 @@ A complete system that connects citizens with NGOs for reporting and resolving a
 * 📍 Location-based Reporting
 * 📊 Case Tracking with Resolution Proof
 
-👉 https://github.com/Rajeshwer-Sahani/SARRS_Project_11_02
+👉 🔗 View Project: https://github.com/Rajeshwer-Sahani/SARRS_Project_11_02
 
 ---
 
@@ -27,21 +27,24 @@ A complete system that connects citizens with NGOs for reporting and resolving a
 
 * Flutter-based weather app
 * Real-time API integration
-  👉 https://github.com/Rajeshwer-Sahani/SkyCast_weather_application_19_09
+
+  👉 🔗 View Project: https://github.com/Rajeshwer-Sahani/SkyCast_weather_application_19_09
 
 ---
 
 ### 📘 HTML Learning Project
 
 * Core HTML concepts and structured examples
-  👉 https://github.com/Rajeshwer-Sahani/HTML-INFO
+
+  👉 🔗 View Project:  https://github.com/Rajeshwer-Sahani/HTML-INFO
 
 ---
 
 ### 📱 Flutter Practice & UI Work
 
 * Flutter UI components and assignments
-  👉 https://github.com/Rajeshwer-Sahani/flutter_collection_assignment_04
+
+  👉 🔗 View Project: https://github.com/Rajeshwer-Sahani/flutter_collection_assignment_04
 
 ---
 
@@ -76,4 +79,5 @@ A complete system that connects citizens with NGOs for reporting and resolving a
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://linkedin.com/in/rajeshwer-sahani
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rajeshwer-sahani)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
